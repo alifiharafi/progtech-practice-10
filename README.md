@@ -21,18 +21,19 @@ In this exercise, we will learn about assert statement (**Java assertions**) usi
 **GLHF!**
 
 ## INITIAL OUTPUT
-$ `java DataRoles`
-
-`They are a very specialized type of backend software engineer focusing on leveraging data. They operationlize and put predictive models into production, building pipelines, api and training models.`
+```
+$ java DataRoles
+They are a very specialized type of backend software engineer focusing on leveraging data. They operationlize and put predictive models into production, building pipelines, api and training models.
+```
 
 `[Docker, Kubernetes, OpenShift, Tableau, MongoDB, ElasticSearch, Spark, TensorFlow, PyTorch]`
 
 ## SAMPLE ASSERTION ERROR OUTPUT
-`Exception in thread "main" java.lang.AssertionError: Data Ops is invalid research role`
-
-`     at ResearcherRoles.displayRoleDesc(DataRoles.java:XX)`
-
-`     at DataRoles.main(DataRoles.java:XX)`
+```
+Exception in thread "main" java.lang.AssertionError: Data Ops is invalid research role
+     at ResearcherRoles.displayRoleDesc(DataRoles.java:XX)
+     at DataRoles.main(DataRoles.java:XX)
+```
 
 ## REFERENCES
 - **Main**: https://www3.ntu.edu.sg/home/ehchua/programming/java/J5a_ExceptionAssert.html
