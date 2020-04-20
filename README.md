@@ -3,7 +3,7 @@ Practice #10 - Programming Technique for D4 POLBAN
 
 Author **@alifiharafi**
 
-In this exercise, we will learn about assert statement (Java assertions) using several codes below as a case.
+In this exercise, we will learn about assert statement (Java assertions) using `DataRoles.java`.
 
 ## QUESTS
 1. How to display custom message of assertion using command line? 
