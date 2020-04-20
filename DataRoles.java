@@ -10,7 +10,7 @@
  * 3. Is it possible to show all custom message of assertions? If it is possible how to do it?
  *    - OR - 
  *    Is it ONLY possible to show custom message of the assertion that was first discovered (assertion in the earlier line)? WHY?
- * 4. Update Engineer Roles Class using EXCEPTION with "AssertionError"!
+ * 4. Update Engineer Tools Class using EXCEPTION (Try-Catch) with "AssertionError" and show the message!
  * 5. FIX the codes, make sure you don't have any error!
  *    Take a look to Engineer Tools Class. We want to remove selected elements of array list.
  *    If the assertion is ENABLED, removing elements of array list WORKS PERFECTLY. 
@@ -39,6 +39,7 @@
 
 import java.util.ArrayList;
 import java.util.Arrays;
+
 
 class DataRoles {
 	public static void main(String[] args) {
@@ -139,11 +140,12 @@ class EngineerTools {
                                             "Spark", "TensorFlow", "PyTorch"
                                             )
                                         );
-        this.DataOpsTools = new ArrayList<>(Arrays.asList("Docker", "Kubernets", "OpenShift"));
+        this.DataOpsTools = new ArrayList<>(Arrays.asList("Docker", "Kubernetes", "OpenShift"));
+        // this.DataOpsTools = new ArrayList<>(Arrays.asList("Pandas"));
     }
 
     void removeDataOpsTools() {
-        assert this.EngTools.removeAll(this.DataOpsTools);
+        assert this.EngTools.removeAll(this.DataOpsTools): "Failed to remove!";
     }
 
     void displayDataOpsTools() {
