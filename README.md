@@ -30,9 +30,11 @@ They are a very specialized type of backend software engineer focusing on levera
 
 ## SAMPLE ASSERTION ERROR OUTPUT
 `Exception in thread "main" java.lang.AssertionError: Data Ops is invalid research role`
+
 `     at ResearcherRoles.displayRoleDesc(DataRoles.java:XX)`
+
 `     at DataRoles.main(DataRoles.java:XX)`
 
 ## REFERENCES
-Main: https://www3.ntu.edu.sg/home/ehchua/programming/java/J5a_ExceptionAssert.html
-Description: https://medium.com/analytics-and-data/an-introduction-to-18-roles-in-the-data-ecosystem-d80d88fcbec7
+- Main: https://www3.ntu.edu.sg/home/ehchua/programming/java/J5a_ExceptionAssert.html
+- Description: https://medium.com/analytics-and-data/an-introduction-to-18-roles-in-the-data-ecosystem-d80d88fcbec7
