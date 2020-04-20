@@ -17,6 +17,7 @@ In this exercise, we will learn about assert statement (Java assertions) using `
 6. At line 36, open the package comment. 
    Make a package according to the codes at the line. 
    Then execute this file using the java command accompanied by an "assertion parameter for the package".
+
 **Don't forget to provide a comprehensive explanation for each number!**
 
 **GLHF!**
