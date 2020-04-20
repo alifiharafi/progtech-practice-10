@@ -1,7 +1,5 @@
 # progtech-practice-10
-Practice #10 - Programming Technique for D4 POLBAN
-
-Author **@alifiharafi**
+**Practice #10** - Programming Technique for D4 POLBAN.
 
 In this exercise, we will learn about assert statement (Java assertions) using `DataRoles.java`.
 
@@ -19,14 +17,16 @@ In this exercise, we will learn about assert statement (Java assertions) using `
 6. At line 36, open the package comment. 
    Make a package according to the codes at the line. 
    Then execute this file using the java command accompanied by an "assertion parameter for the package".
-Don't forget to provide a comprehensive explanation for each number!
+**Don't forget to provide a comprehensive explanation for each number!**
+
+**GLHF!**
 
 ## INITIAL OUTPUT
 $ `java DataRoles`
 
-They are a very specialized type of backend software engineer focusing on leveraging data. They operationlize and put predictive models into production, building pipelines, api and training models.
+`They are a very specialized type of backend software engineer focusing on leveraging data. They operationlize and put predictive models into production, building pipelines, api and training models.`
 
-[Docker, Kubernetes, OpenShift, Tableau, MongoDB, ElasticSearch, Spark, TensorFlow, PyTorch]
+`[Docker, Kubernetes, OpenShift, Tableau, MongoDB, ElasticSearch, Spark, TensorFlow, PyTorch]`
 
 ## SAMPLE ASSERTION ERROR OUTPUT
 `Exception in thread "main" java.lang.AssertionError: Data Ops is invalid research role`
@@ -36,5 +36,5 @@ They are a very specialized type of backend software engineer focusing on levera
 `     at DataRoles.main(DataRoles.java:XX)`
 
 ## REFERENCES
-- Main: https://www3.ntu.edu.sg/home/ehchua/programming/java/J5a_ExceptionAssert.html
-- Description: https://medium.com/analytics-and-data/an-introduction-to-18-roles-in-the-data-ecosystem-d80d88fcbec7
+- **Main**: https://www3.ntu.edu.sg/home/ehchua/programming/java/J5a_ExceptionAssert.html
+- **Description**: https://medium.com/analytics-and-data/an-introduction-to-18-roles-in-the-data-ecosystem-d80d88fcbec7
