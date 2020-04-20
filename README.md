@@ -1,22 +1,22 @@
 # progtech-practice-10
 **Practice #10** - Programming Technique for D4 POLBAN.
 
-In this exercise, we will learn about assert statement (Java assertions) using `DataRoles.java`.
+In this exercise, we will learn about assert statement (**Java assertions**) using `DataRoles.java`.
 
 ## QUESTS
 1. How to display custom message of assertion using command line? 
-2. How to display custom message of assertion ONLY for class Research Roles using command line?
-3. Is it possible to show all custom message of assertions? If it is possible how to do it? **OR** Is it ONLY possible to show custom message of the assertion that was first discovered (assertion in the earlier line)? WHY?
-4. Update Engineer Roles Class using EXCEPTION with "AssertionError"!
+2. How to display custom message of assertion ONLY for `Research Roles Class` using command line?
+3. Is it possible to show all custom message of assertions? If it is possible how to do it? **OR** Is it ONLY possible to show custom message of the assertion that was first discovered (assertion in the earlier line)? **WHY?**
+4. Update `Engineer Roles Class` using EXCEPTION with `AssertionError`!
 5. FIX the codes, make sure you don't have any error!
-   Take a look to Engineer Tools Class. We want to remove selected elements of array list.
+   Take a look to `Engineer Tools Class`. We want to remove selected elements of array list.
    If the assertion is ENABLED, removing elements of array list WORKS PERFECTLY. 
-   BUT if the assertion is DISABLED, the elements of array list are NOT REMOVED. WHY?
+   BUT if the assertion is DISABLED, the elements of array list are NOT REMOVED. **WHY?**
 6. At line 36, open the package comment. 
    Make a package according to the codes at the line. 
    Then execute this file using the java command accompanied by an "assertion parameter for the package".
 
-**Don't forget to provide a comprehensive explanation for each number!**
+**Don't forget to provide comprehensive explanations and screenshots for each number!**
 
 **GLHF!**
 
