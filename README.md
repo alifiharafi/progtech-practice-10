@@ -24,9 +24,8 @@ In this exercise, we will learn about assert statement (**Java assertions**) usi
 ```
 $ java DataRoles
 They are a very specialized type of backend software engineer focusing on leveraging data. They operationlize and put predictive models into production, building pipelines, api and training models.
+[Docker, Kubernetes, OpenShift, Tableau, MongoDB, ElasticSearch, Spark, TensorFlow, PyTorch]
 ```
-
-`[Docker, Kubernetes, OpenShift, Tableau, MongoDB, ElasticSearch, Spark, TensorFlow, PyTorch]`
 
 ## SAMPLE ASSERTION ERROR OUTPUT
 ```
