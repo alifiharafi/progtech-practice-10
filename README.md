@@ -8,8 +8,7 @@ In this exercise, we will learn about assert statement (**Java assertions**) usi
 2. How to display custom message of assertion ONLY for `Research Roles Class` using command line?
 3. Is it possible to show all custom message of assertions? If it is possible how to do it? **OR** Is it ONLY possible to show custom message of the assertion that was first discovered (assertion in the earlier line)? **WHY?**
 4. Update `Engineer Tools Class` using EXCEPTION (Try-Catch) with `AssertionError` and show the message!
-5. - FIX the codes, make sure you don't have any error!
-   - Take a look to `Engineer Tools Class`. We want to remove selected elements of array list.
+5. **FIX the codes, make sure you don't have any error!** Take a look to `Engineer Tools Class`. We want to remove selected elements of array list.
    - If the assertion is ENABLED, removing elements of array list WORKS PERFECTLY. 
    - BUT if the assertion is DISABLED, the elements of array list are NOT REMOVED. **WHY?**
 6. At line 38, remove the package comment. 
