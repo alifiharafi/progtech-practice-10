@@ -1,7 +1,7 @@
 # progtech-practice-10
 **Practice #10** - Programming Technique for D4 POLBAN.
 
-In this exercise, we will learn about assert statement (**Java assertions**) using `DataRoles.java`.
+In this exercise, we will learn about assert statement (**Java assertions**) using [DataRoles.java](DataRoles.java).
 
 ## QUESTS
 1. How to display custom message of assertion using command line? 

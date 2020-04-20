@@ -15,7 +15,7 @@
  *    Take a look to Engineer Tools Class. We want to remove selected elements of array list.
  *    If the assertion is ENABLED, removing elements of array list WORKS PERFECTLY. 
  *    BUT if the assertion is DISABLED, the elements of array list are NOT REMOVED. WHY?
- * 6. At line 36, open the package comment. 
+ * 6. At line 38, open the package comment. 
  *    Make a package according to the codes at the line. 
  *    Then execute this file using the java command accompanied by an "assertion parameter for the package".
  * Don't forget to provide a comprehensive explanation for each number!
@@ -35,7 +35,7 @@
  * Description: https://medium.com/analytics-and-data/an-introduction-to-18-roles-in-the-data-ecosystem-d80d88fcbec7
  */
 
-package id.ac.polban.jtk;
+// package id.ac.polban.jtk;
 
 import java.util.ArrayList;
 import java.util.Arrays;
