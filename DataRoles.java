@@ -17,7 +17,7 @@
  *    BUT if the assertion is DISABLED, the elements of array list are NOT REMOVED. WHY?
  *    The elements of array list should be able to be removed with both the ENABLED and DISABLED assertion. How to FIX the issue? Give your solution!
  * 6. At line 38, remove the package comment.
- *    Make a package according to the codes at the line. 
+ *    Create nested packages according to the codes at the line. 
  *    Then execute this file using the java command accompanied by an "assertion parameter for the package".
  * Don't forget to provide a comprehensive explanation for each number!
  * 
