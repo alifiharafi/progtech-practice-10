@@ -6,7 +6,7 @@
  * 
  * QUESTS
  * 1. How to display custom message of assertion using command line? 
- * 2. How to display custom message of assertion ONLY for class Research Roles using command line?
+ * 2. How to display custom message of assertion ONLY for Researcher Roles Class using command line?
  * 3. Is it possible to show all custom message of assertions? If it is possible how to do it?
  *    - OR - 
  *    Is it ONLY possible to show custom message of the assertion that was first discovered (assertion in the earlier line)? WHY?
